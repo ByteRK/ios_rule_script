@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-08 02:12:30
+# UPDATED: 2022-03-09 02:12:34
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 71821
+# DOMAIN-SUFFIX: 71823
 # PROCESS-NAME: 5
 # DOMAIN: 80
-# IP-CIDR: 6173
+# IP-CIDR: 6174
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5471
-# TOTAL: 83626
+# TOTAL: 83629
 265.com
 adservice.google.com
 analytics.strava.com
@@ -1302,6 +1302,7 @@ www4-static.gog-statics.com
 .123juzi.com
 .123lihun.com
 .123meiyan.com
+.123menpiao.com
 .123nice.net
 .123novel.com
 .123qibu.com
@@ -8274,6 +8275,7 @@ www4-static.gog-statics.com
 .adapay.tech
 .adarrive.com
 .adashuo.com
+.adawod.com
 .adaxin.com
 .adbats.com
 .adbxb.cn
@@ -12627,6 +12629,7 @@ www4-static.gog-statics.com
 .bjznnt.com
 .bjzph.com
 .bjzqcbook.com
+.bjzqhy.net
 .bjzqw.com
 .bjzs114.com
 .bjzwzx.com
@@ -17794,6 +17797,7 @@ www4-static.gog-statics.com
 .cocosbcx.net
 .cocostudio.org
 .cocss.com
+.coctotoo.com
 .codante.org
 .code-by.org
 .code.sh
@@ -19188,6 +19192,7 @@ www4-static.gog-statics.com
 .d65d6.com
 .d6uab.cn
 .d768h.cn
+.d777.com
 .d78qi.cn
 .d7baike.net
 .d7ol.com
@@ -20143,7 +20148,6 @@ www4-static.gog-statics.com
 .dfdjy.net
 .dfdtt.com
 .dfedu.com
-.dfgzqc.com
 .dfham.com
 .dfhon.com
 .dfhtjn.com
@@ -26571,6 +26575,7 @@ www4-static.gog-statics.com
 .giga-da.com
 .gigabyte.com
 .gigaget.com
+.giikin.com
 .giiso.com
 .gildata.com
 .gilieye.com
@@ -26629,7 +26634,6 @@ www4-static.gog-statics.com
 .gjgbdszt.cn
 .gjgbdszt.com.cn
 .gjgbdszt.net.cn
-.gjgov.com
 .gjgwy.net
 .gjgwy.org
 .gjgzpw.com
@@ -33215,7 +33219,6 @@ www4-static.gog-statics.com
 .imwork.net
 .imwukong.com
 .imxh.com
-.imxingzhe.com
 .imxpan.com
 .imxyd.com
 .imycdn.com
@@ -34106,7 +34109,6 @@ www4-static.gog-statics.com
 .iwapan.com
 .iwasai.com
 .iwatch365.com
-.iwatch365.net
 .iwcoo.com
 .iwebad.com
 .iwebchoice.com
@@ -36277,7 +36279,6 @@ www4-static.gog-statics.com
 .jsjs.org
 .jsjyrcb.com
 .jskaiborui.com
-.jskdjd.com
 .jskpcg.org
 .jskwt.com
 .jsldweb.com
@@ -60558,7 +60559,6 @@ www4-static.gog-statics.com
 .wcyecs.com
 .wczf.net
 .wd1266.com
-.wd6667.com
 .wdace.com
 .wdashi.com
 .wdaveh5game.com
@@ -60999,6 +60999,7 @@ www4-static.gog-statics.com
 .weixun.com
 .weixuncj.com
 .weixunyunduan.net
+.weixz.com
 .weixz8.com
 .weiyan.me
 .weiyangx.com
@@ -62790,6 +62791,7 @@ www4-static.gog-statics.com
 .wwleww.com
 .wwmhdq.com
 .wws23.com
+.wwstat.com
 .www-05.ibm.com
 .www-123490.com
 .www-175345.com

@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-08 02:12:31
-# DOMAIN-SUFFIX: 68193
+# UPDATED: 2022-03-09 02:12:36
+# DOMAIN-SUFFIX: 68196
 # DOMAIN: 86
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # USER-AGENT: 31
 # IP-CIDR6: 4
-# TOTAL: 68330
+# TOTAL: 68333
 265.com
 2mdn.net
 adservice.google.com
@@ -1288,6 +1288,7 @@ www4-static.gog-statics.com
 .123juzi.net
 .123lihun.com
 .123meiyan.com
+.123menpiao.com
 .123nice.net
 .123novel.com
 .123qibu.com
@@ -8089,6 +8090,7 @@ www4-static.gog-statics.com
 .adapay.tech
 .adarrive.com
 .adashuo.com
+.adawod.com
 .adaxin.com
 .adbats.com
 .adbxb.com
@@ -12158,6 +12160,7 @@ www4-static.gog-statics.com
 .bjznnt.com
 .bjzph.com
 .bjzqcbook.com
+.bjzqhy.net
 .bjzqw.com
 .bjzs114.com
 .bjzwzx.com
@@ -17012,6 +17015,7 @@ www4-static.gog-statics.com
 .cocostudio.org
 .cocounion.com
 .cocss.com
+.coctotoo.com
 .codante.org
 .code-by.org
 .code.sh
@@ -18309,6 +18313,7 @@ www4-static.gog-statics.com
 .d5power.com
 .d5wx.com
 .d65d6.com
+.d777.com
 .d77777777.com
 .d7baike.net
 .d7ol.com
@@ -19250,7 +19255,6 @@ www4-static.gog-statics.com
 .dfdjy.net
 .dfdtt.com
 .dfedu.com
-.dfgzqc.com
 .dfham.com
 .dfhon.com
 .dfhtjn.com
@@ -25091,6 +25095,7 @@ www4-static.gog-statics.com
 .giga-da.com
 .gigabyte.com
 .gigaget.com
+.giikin.com
 .giiso.com
 .gildata.com
 .gilieye.com
@@ -25147,7 +25152,6 @@ www4-static.gog-statics.com
 .gjceshi9.com
 .gjds.vip
 .gjfax.com
-.gjgov.com
 .gjgwy.net
 .gjgwy.org
 .gjgzpw.com
@@ -31459,7 +31463,6 @@ www4-static.gog-statics.com
 .imwexpo.com
 .imwork.net
 .imxh.com
-.imxingzhe.com
 .imxpan.com
 .imxyd.com
 .imycdn.com
@@ -32307,7 +32310,6 @@ www4-static.gog-statics.com
 .iwapan.com
 .iwasai.com
 .iwatch365.com
-.iwatch365.net
 .iwcoo.com
 .iwebad.com
 .iwebchoice.com
@@ -34384,7 +34386,6 @@ www4-static.gog-statics.com
 .jsjs.org
 .jsjyrcb.com
 .jskaiborui.com
-.jskdjd.com
 .jskpcg.org
 .jskwt.com
 .jsldweb.com
@@ -43942,6 +43943,7 @@ www4-static.gog-statics.com
 .ourwebpic.com
 .ourwebpic.info
 .ourwebpic.org
+.ourwebpicvip.com
 .oushangstyle.com
 .oushinet.com
 .oushivoyages.com
@@ -57389,7 +57391,6 @@ www4-static.gog-statics.com
 .wcyecs.com
 .wczf.net
 .wd1266.com
-.wd6667.com
 .wdace.com
 .wdashi.com
 .wdaveh5game.com
@@ -57814,6 +57815,7 @@ www4-static.gog-statics.com
 .weixun.com
 .weixuncj.com
 .weixunyunduan.net
+.weixz.com
 .weixz8.com
 .weiyan.me
 .weiyangx.com
@@ -59518,6 +59520,7 @@ www4-static.gog-statics.com
 .wwleww.com
 .wwmhdq.com
 .wws23.com
+.wwstat.com
 .www-05.ibm.com
 .www-123490.com
 .www-175345.com

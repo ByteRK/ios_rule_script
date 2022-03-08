@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-08 02:12:31
-# HOST-SUFFIX: 31954
+# UPDATED: 2022-03-09 02:12:35
+# HOST-SUFFIX: 31956
 # USER-AGENT: 5
 # HOST: 37
 # HOST-KEYWORD: 26
 # IP-CIDR: 89
 # IP6-CIDR: 3
-# TOTAL: 32114
+# TOTAL: 32116
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -7644,6 +7644,7 @@ HOST-SUFFIX,craighamilton.biz,ProxyLite
 HOST-SUFFIX,craigslist.org,ProxyLite
 HOST-SUFFIX,crates.io,ProxyLite
 HOST-SUFFIX,crazedtechs.com,ProxyLite
+HOST-SUFFIX,crazymike.tw,ProxyLite
 HOST-SUFFIX,crazys.cc,ProxyLite
 HOST-SUFFIX,crazyshit.com,ProxyLite
 HOST-SUFFIX,crc003.net,ProxyLite
@@ -11979,6 +11980,7 @@ HOST-SUFFIX,gogo2sex.com,ProxyLite
 HOST-SUFFIX,gogoanime.wiki,ProxyLite
 HOST-SUFFIX,gogocdn.net,ProxyLite
 HOST-SUFFIX,gogotunnel.com,ProxyLite
+HOST-SUFFIX,gohappy.com.tw,ProxyLite
 HOST-SUFFIX,goihoa.com,ProxyLite
 HOST-SUFFIX,gojdu91.ro,ProxyLite
 HOST-SUFFIX,gokbayrak.com,ProxyLite

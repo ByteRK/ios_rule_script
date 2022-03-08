@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-04 02:12:13
-# DOMAIN-SUFFIX: 25439
+# UPDATED: 2022-03-09 02:12:34
+# DOMAIN-SUFFIX: 25441
 # USER-AGENT: 7
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 32
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 25581
+# TOTAL: 25583
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -5900,6 +5900,7 @@ voice.telephony.goog
 .crackle.com
 .craighamilton.biz
 .crazedtechs.com
+.crazymike.tw
 .crazys.cc
 .crazyshit.com
 .crbug.com
@@ -8847,6 +8848,7 @@ voice.telephony.goog
 .gogle.com
 .gogo2sex.com
 .gogotunnel.com
+.gohappy.com.tw
 .goihoa.com
 .gojdu91.ro
 .gokbayrak.com

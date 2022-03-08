@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-04 02:12:14
-# HOST-SUFFIX: 25553
+# UPDATED: 2022-03-09 02:12:35
+# HOST-SUFFIX: 25555
 # USER-AGENT: 44
 # HOST: 32
 # HOST-KEYWORD: 45
 # IP-CIDR: 110
 # IP6-CIDR: 4
-# TOTAL: 25788
+# TOTAL: 25790
 HOST,amp-api.podcasts.apple.com,Global
 HOST,api.waqi.info,Global
 HOST,apple.comscoreresearch.com,Global
@@ -5945,6 +5945,7 @@ HOST-SUFFIX,crabriones.com.ar,Global
 HOST-SUFFIX,crackle.com,Global
 HOST-SUFFIX,craighamilton.biz,Global
 HOST-SUFFIX,crazedtechs.com,Global
+HOST-SUFFIX,crazymike.tw,Global
 HOST-SUFFIX,crazys.cc,Global
 HOST-SUFFIX,crazyshit.com,Global
 HOST-SUFFIX,crbug.com,Global
@@ -8922,6 +8923,7 @@ HOST-SUFFIX,goge.ml,Global
 HOST-SUFFIX,gogle.com,Global
 HOST-SUFFIX,gogo2sex.com,Global
 HOST-SUFFIX,gogotunnel.com,Global
+HOST-SUFFIX,gohappy.com.tw,Global
 HOST-SUFFIX,goihoa.com,Global
 HOST-SUFFIX,gojdu91.ro,Global
 HOST-SUFFIX,gokbayrak.com,Global

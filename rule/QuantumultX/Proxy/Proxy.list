@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-04 02:12:14
-# HOST-SUFFIX: 25439
+# UPDATED: 2022-03-09 02:12:35
+# HOST-SUFFIX: 25441
 # USER-AGENT: 7
 # HOST: 8
 # HOST-KEYWORD: 32
 # IP-CIDR: 92
 # IP6-CIDR: 3
-# TOTAL: 25581
+# TOTAL: 25583
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -5900,6 +5900,7 @@ HOST-SUFFIX,crabriones.com.ar,Proxy
 HOST-SUFFIX,crackle.com,Proxy
 HOST-SUFFIX,craighamilton.biz,Proxy
 HOST-SUFFIX,crazedtechs.com,Proxy
+HOST-SUFFIX,crazymike.tw,Proxy
 HOST-SUFFIX,crazys.cc,Proxy
 HOST-SUFFIX,crazyshit.com,Proxy
 HOST-SUFFIX,crbug.com,Proxy
@@ -8847,6 +8848,7 @@ HOST-SUFFIX,goge.ml,Proxy
 HOST-SUFFIX,gogle.com,Proxy
 HOST-SUFFIX,gogo2sex.com,Proxy
 HOST-SUFFIX,gogotunnel.com,Proxy
+HOST-SUFFIX,gohappy.com.tw,Proxy
 HOST-SUFFIX,goihoa.com,Proxy
 HOST-SUFFIX,gojdu91.ro,Proxy
 HOST-SUFFIX,gokbayrak.com,Proxy

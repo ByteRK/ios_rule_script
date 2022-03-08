@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-08 02:12:34
-# DOMAIN-SUFFIX: 71821
+# UPDATED: 2022-03-09 02:12:39
+# DOMAIN-SUFFIX: 71823
 # PROCESS-NAME: 5
 # DOMAIN: 80
-# IP-CIDR: 6173
+# IP-CIDR: 6174
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5471
-# TOTAL: 83564
+# TOTAL: 83567
 payload:
   - DOMAIN,265.com
   - DOMAIN,adservice.google.com
@@ -1302,6 +1302,7 @@ payload:
   - DOMAIN-SUFFIX,123juzi.com
   - DOMAIN-SUFFIX,123lihun.com
   - DOMAIN-SUFFIX,123meiyan.com
+  - DOMAIN-SUFFIX,123menpiao.com
   - DOMAIN-SUFFIX,123nice.net
   - DOMAIN-SUFFIX,123novel.com
   - DOMAIN-SUFFIX,123qibu.com
@@ -8274,6 +8275,7 @@ payload:
   - DOMAIN-SUFFIX,adapay.tech
   - DOMAIN-SUFFIX,adarrive.com
   - DOMAIN-SUFFIX,adashuo.com
+  - DOMAIN-SUFFIX,adawod.com
   - DOMAIN-SUFFIX,adaxin.com
   - DOMAIN-SUFFIX,adbats.com
   - DOMAIN-SUFFIX,adbxb.cn
@@ -12627,6 +12629,7 @@ payload:
   - DOMAIN-SUFFIX,bjznnt.com
   - DOMAIN-SUFFIX,bjzph.com
   - DOMAIN-SUFFIX,bjzqcbook.com
+  - DOMAIN-SUFFIX,bjzqhy.net
   - DOMAIN-SUFFIX,bjzqw.com
   - DOMAIN-SUFFIX,bjzs114.com
   - DOMAIN-SUFFIX,bjzwzx.com
@@ -17794,6 +17797,7 @@ payload:
   - DOMAIN-SUFFIX,cocosbcx.net
   - DOMAIN-SUFFIX,cocostudio.org
   - DOMAIN-SUFFIX,cocss.com
+  - DOMAIN-SUFFIX,coctotoo.com
   - DOMAIN-SUFFIX,codante.org
   - DOMAIN-SUFFIX,code-by.org
   - DOMAIN-SUFFIX,code.sh
@@ -19188,6 +19192,7 @@ payload:
   - DOMAIN-SUFFIX,d65d6.com
   - DOMAIN-SUFFIX,d6uab.cn
   - DOMAIN-SUFFIX,d768h.cn
+  - DOMAIN-SUFFIX,d777.com
   - DOMAIN-SUFFIX,d78qi.cn
   - DOMAIN-SUFFIX,d7baike.net
   - DOMAIN-SUFFIX,d7ol.com
@@ -20143,7 +20148,6 @@ payload:
   - DOMAIN-SUFFIX,dfdjy.net
   - DOMAIN-SUFFIX,dfdtt.com
   - DOMAIN-SUFFIX,dfedu.com
-  - DOMAIN-SUFFIX,dfgzqc.com
   - DOMAIN-SUFFIX,dfham.com
   - DOMAIN-SUFFIX,dfhon.com
   - DOMAIN-SUFFIX,dfhtjn.com
@@ -26571,6 +26575,7 @@ payload:
   - DOMAIN-SUFFIX,giga-da.com
   - DOMAIN-SUFFIX,gigabyte.com
   - DOMAIN-SUFFIX,gigaget.com
+  - DOMAIN-SUFFIX,giikin.com
   - DOMAIN-SUFFIX,giiso.com
   - DOMAIN-SUFFIX,gildata.com
   - DOMAIN-SUFFIX,gilieye.com
@@ -26629,7 +26634,6 @@ payload:
   - DOMAIN-SUFFIX,gjgbdszt.cn
   - DOMAIN-SUFFIX,gjgbdszt.com.cn
   - DOMAIN-SUFFIX,gjgbdszt.net.cn
-  - DOMAIN-SUFFIX,gjgov.com
   - DOMAIN-SUFFIX,gjgwy.net
   - DOMAIN-SUFFIX,gjgwy.org
   - DOMAIN-SUFFIX,gjgzpw.com
@@ -33215,7 +33219,6 @@ payload:
   - DOMAIN-SUFFIX,imwork.net
   - DOMAIN-SUFFIX,imwukong.com
   - DOMAIN-SUFFIX,imxh.com
-  - DOMAIN-SUFFIX,imxingzhe.com
   - DOMAIN-SUFFIX,imxpan.com
   - DOMAIN-SUFFIX,imxyd.com
   - DOMAIN-SUFFIX,imycdn.com
@@ -34106,7 +34109,6 @@ payload:
   - DOMAIN-SUFFIX,iwapan.com
   - DOMAIN-SUFFIX,iwasai.com
   - DOMAIN-SUFFIX,iwatch365.com
-  - DOMAIN-SUFFIX,iwatch365.net
   - DOMAIN-SUFFIX,iwcoo.com
   - DOMAIN-SUFFIX,iwebad.com
   - DOMAIN-SUFFIX,iwebchoice.com
@@ -36277,7 +36279,6 @@ payload:
   - DOMAIN-SUFFIX,jsjs.org
   - DOMAIN-SUFFIX,jsjyrcb.com
   - DOMAIN-SUFFIX,jskaiborui.com
-  - DOMAIN-SUFFIX,jskdjd.com
   - DOMAIN-SUFFIX,jskpcg.org
   - DOMAIN-SUFFIX,jskwt.com
   - DOMAIN-SUFFIX,jsldweb.com
@@ -60558,7 +60559,6 @@ payload:
   - DOMAIN-SUFFIX,wcyecs.com
   - DOMAIN-SUFFIX,wczf.net
   - DOMAIN-SUFFIX,wd1266.com
-  - DOMAIN-SUFFIX,wd6667.com
   - DOMAIN-SUFFIX,wdace.com
   - DOMAIN-SUFFIX,wdashi.com
   - DOMAIN-SUFFIX,wdaveh5game.com
@@ -60999,6 +60999,7 @@ payload:
   - DOMAIN-SUFFIX,weixun.com
   - DOMAIN-SUFFIX,weixuncj.com
   - DOMAIN-SUFFIX,weixunyunduan.net
+  - DOMAIN-SUFFIX,weixz.com
   - DOMAIN-SUFFIX,weixz8.com
   - DOMAIN-SUFFIX,weiyan.me
   - DOMAIN-SUFFIX,weiyangx.com
@@ -62790,6 +62791,7 @@ payload:
   - DOMAIN-SUFFIX,wwleww.com
   - DOMAIN-SUFFIX,wwmhdq.com
   - DOMAIN-SUFFIX,wws23.com
+  - DOMAIN-SUFFIX,wwstat.com
   - DOMAIN-SUFFIX,www-05.ibm.com
   - DOMAIN-SUFFIX,www-123490.com
   - DOMAIN-SUFFIX,www-175345.com
@@ -75031,7 +75033,8 @@ payload:
   - IP-CIDR,160.202.212.0/22,no-resolve
   - IP-CIDR,160.202.216.0/21,no-resolve
   - IP-CIDR,160.202.224.0/19,no-resolve
-  - IP-CIDR,160.202.60.0/22,no-resolve
+  - IP-CIDR,160.202.60.0/23,no-resolve
+  - IP-CIDR,160.202.62.0/24,no-resolve
   - IP-CIDR,160.238.64.0/22,no-resolve
   - IP-CIDR,160.62.10.0/24,no-resolve
   - IP-CIDR,160.83.109.0/24,no-resolve

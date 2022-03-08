@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-04 02:12:16
-# DOMAIN-SUFFIX: 25439
+# UPDATED: 2022-03-09 02:12:38
+# DOMAIN-SUFFIX: 25441
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 32
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 25574
+# TOTAL: 25576
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -5900,6 +5900,7 @@ payload:
   - '+.crackle.com'
   - '+.craighamilton.biz'
   - '+.crazedtechs.com'
+  - '+.crazymike.tw'
   - '+.crazys.cc'
   - '+.crazyshit.com'
   - '+.crbug.com'
@@ -8847,6 +8848,7 @@ payload:
   - '+.gogle.com'
   - '+.gogo2sex.com'
   - '+.gogotunnel.com'
+  - '+.gohappy.com.tw'
   - '+.goihoa.com'
   - '+.gojdu91.ro'
   - '+.gokbayrak.com'

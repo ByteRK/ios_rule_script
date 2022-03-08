@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-04 02:12:17
-# DOMAIN-SUFFIX: 25553
+# UPDATED: 2022-03-09 02:12:39
+# DOMAIN-SUFFIX: 25555
 # DOMAIN: 32
 # DOMAIN-KEYWORD: 45
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25745
+# TOTAL: 25747
 payload:
   - 'amp-api.podcasts.apple.com'
   - 'api.waqi.info'
@@ -5946,6 +5946,7 @@ payload:
   - '+.crackle.com'
   - '+.craighamilton.biz'
   - '+.crazedtechs.com'
+  - '+.crazymike.tw'
   - '+.crazys.cc'
   - '+.crazyshit.com'
   - '+.crbug.com'
@@ -8923,6 +8924,7 @@ payload:
   - '+.gogle.com'
   - '+.gogo2sex.com'
   - '+.gogotunnel.com'
+  - '+.gohappy.com.tw'
   - '+.goihoa.com'
   - '+.gojdu91.ro'
   - '+.gokbayrak.com'

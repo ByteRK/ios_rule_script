@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-08 02:12:34
-# DOMAIN-SUFFIX: 31954
+# UPDATED: 2022-03-09 02:12:39
+# DOMAIN-SUFFIX: 31956
 # DOMAIN: 37
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 89
 # IP-CIDR6: 3
-# TOTAL: 32109
+# TOTAL: 32111
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -7644,6 +7644,7 @@ payload:
   - DOMAIN-SUFFIX,craigslist.org
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,crazedtechs.com
+  - DOMAIN-SUFFIX,crazymike.tw
   - DOMAIN-SUFFIX,crazys.cc
   - DOMAIN-SUFFIX,crazyshit.com
   - DOMAIN-SUFFIX,crc003.net
@@ -11979,6 +11980,7 @@ payload:
   - DOMAIN-SUFFIX,gogoanime.wiki
   - DOMAIN-SUFFIX,gogocdn.net
   - DOMAIN-SUFFIX,gogotunnel.com
+  - DOMAIN-SUFFIX,gohappy.com.tw
   - DOMAIN-SUFFIX,goihoa.com
   - DOMAIN-SUFFIX,gojdu91.ro
   - DOMAIN-SUFFIX,gokbayrak.com
