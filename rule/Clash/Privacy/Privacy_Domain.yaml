@@ -1,7 +1,7 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-04 02:12:15
+# UPDATED: 2022-03-10 02:13:00
 # DOMAIN: 13
 # DOMAIN-SUFFIX: 12408
 # IP-CIDR: 6
@@ -71,6 +71,7 @@ payload:
   - '+.8147563.thekingdom.bk.com'
   - '+.8147563.your-way.bk.com'
   - '+.82o9v830.com'
+  - '+.8672.site'
   - '+.8ehhtsv9bo7i.monkeylearn.com'
   - '+.8ezc.sfr.fr'
   - '+.8p0kiyq5mq1d.flex.team'
@@ -1175,6 +1176,7 @@ payload:
   - '+.analytics.contents.by-fw.jp'
   - '+.analytics.convertlanguage.com'
   - '+.analytics.cynapse.com'
+  - '+.analytics.daasrv.net'
   - '+.analytics.data.lloydsbankinggroup.com'
   - '+.analytics.datahc.com'
   - '+.analytics.designspiration.com'
@@ -3356,7 +3358,6 @@ payload:
   - '+.engageru2.3mrussia.ru'
   - '+.enlightenment.secureshoppingbasket.com'
   - '+.ens.luzernerzeitung.ch'
-  - '+.ens.nzz.ch'
   - '+.ens.tagblatt.ch'
   - '+.enterprise2.secureforms.mcafee.com'
   - '+.entertainingeyes.com'
@@ -3902,7 +3903,6 @@ payload:
   - '+.go.federalbank.co.in'
   - '+.go.foremostmedia.com'
   - '+.go.fuze.com'
-  - '+.go.fvtc.edu'
   - '+.go.getherculestires.com'
   - '+.go.gpcom.com'
   - '+.go.hager.com'
@@ -4011,7 +4011,6 @@ payload:
   - '+.gw5worvzkb4j.stoic.ai'
   - '+.gwtc.sfr.fr'
   - '+.gx.idg.se'
-  - '+.gyvcwd.cdiscount.com'
   - '+.gz-data.com'
   - '+.gzads.com'
   - '+.gzimdi.soloautos.mx'
@@ -4476,6 +4475,7 @@ payload:
   - '+.infos.yellow.com.au'
   - '+.infospot.roanokegroup.com'
   - '+.ingest.make.rvapps.io'
+  - '+.ingress.linktr.ee'
   - '+.inkubate.actonservice.com'
   - '+.innerskinresearch.com'
   - '+.innocentwax.com'
@@ -8582,6 +8582,7 @@ payload:
   - '+.smetrics.rejuvenation.com'
   - '+.smetrics.remserv.com.au'
   - '+.smetrics.renesas.com'
+  - '+.smetrics.repco.co.nz'
   - '+.smetrics.repco.com.au'
   - '+.smetrics.restaurant.com'
   - '+.smetrics.rexulti.com'
@@ -10345,6 +10346,7 @@ payload:
   - '+.telemetry.adobe.io'
   - '+.telemetry.api.playstation.com'
   - '+.telemetry.jivosite.com'
+  - '+.telemetry.phenixrts.com'
   - '+.telemetry.reembed.com'
   - '+.telemetry.soundcloud.com'
   - '+.telemetry.tableausoftware.com'
@@ -10754,7 +10756,6 @@ payload:
   - '+.tr.news.casino.fr'
   - '+.tr.news.casinodrive.fr'
   - '+.tr.news.casinomax.fr'
-  - '+.tr.news.cdiscount.com'
   - '+.tr.news.companeo.es'
   - '+.tr.news.cotemaison.fr'
   - '+.tr.news.deneuville-chocolat.fr'
@@ -10800,7 +10801,6 @@ payload:
   - '+.tr.news.younited-coach.com'
   - '+.tr.news.younited-credit.com'
   - '+.tr.news2pjms.fr'
-  - '+.tr.news6.cdiscount.com'
   - '+.tr.newsletter.afpa.fr'
   - '+.tr.newsletter.assuragency.net'
   - '+.tr.newsletter.bouygues-construction.com'
@@ -10821,7 +10821,6 @@ payload:
   - '+.tr.notification-gdpr.sygmabybnpparibas-pf.com'
   - '+.tr.notification.banque-revillon.fr'
   - '+.tr.notification.cafineo.fr'
-  - '+.tr.notification.cdiscount.com'
   - '+.tr.notification.cetelem.fr'
   - '+.tr.notification.credit-moderne.fr'
   - '+.tr.notification.norrsken.fr'
@@ -11489,6 +11488,7 @@ payload:
   - '+.ubmitt.heine.ch'
   - '+.ubmups.houseofindya.com'
   - '+.ubt.berlingskemedia.net'
+  - '+.ubuyanalytics.ubuy.com'
   - '+.ubvsjh.pointtown.com'
   - '+.ubxvdx.accuweather.com'
   - '+.udgrbq.malwarebytes.com'

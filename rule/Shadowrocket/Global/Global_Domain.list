@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-09 02:12:40
-# DOMAIN-SUFFIX: 25555
+# UPDATED: 2022-03-10 02:13:04
+# DOMAIN-SUFFIX: 25516
 # USER-AGENT: 44
 # DOMAIN: 32
 # DOMAIN-KEYWORD: 45
 # IP-CIDR: 110
-# TOTAL: 25786
+# TOTAL: 25747
 amp-api.podcasts.apple.com
 api.waqi.info
 apple.comscoreresearch.com
@@ -2536,7 +2536,6 @@ tv.apple.com
 .a2299.com
 .a2646.com
 .a2776.com
-.a2zapk.com
 .a3236.com
 .a3285.com
 .a33285.com
@@ -2717,7 +2716,6 @@ tv.apple.com
 .adventist.org
 .advertfan.com
 .advertisercommunity.com
-.ae.hao123.com
 .ae.org
 .aebn.net
 .aenhancers.com
@@ -3150,7 +3148,6 @@ tv.apple.com
 .anime-sharing.com
 .animecrazy.net
 .animedreaming.tv
-.animeshippuuden.com
 .aniscartujo.com
 .anisearch.de
 .aniseedballs.co.uk
@@ -3496,7 +3493,6 @@ tv.apple.com
 .auliving.com.au
 .auluckylottery.com
 .auntmia.com
-.auntology.fandom.com
 .auraframes.com
 .aurateur.com
 .ausnz.net
@@ -3796,10 +3792,8 @@ tv.apple.com
 .barta24.net
 .bartender.mobile.dowjones.io
 .barton.de
-.bartvpn.com
 .basedmusic.com
 .basevie.fr
-.bash-hackers.org
 .basic.bravedns.com
 .basicframes.com
 .basiclue.com
@@ -4258,7 +4252,6 @@ tv.apple.com
 .blog.com
 .blog.coreylanier.com
 .blog.cotten.io
-.blog.cryptographyengineering.com
 .blog.de
 .blog.dun.im
 .blog.feichangdao.com
@@ -4572,7 +4565,6 @@ tv.apple.com
 .boyxv.com
 .bp8nyohd6k.com
 .bpd.com.do
-.br.hao123.com
 .br.st
 .bradar.cl
 .braghini.com.ar
@@ -5022,7 +5014,6 @@ tv.apple.com
 .calgaryplanninggm.com
 .calibre-ebook.com
 .call-3u8633.com
-.calstate.edu
 .caltech.edu
 .cam4.be
 .cam4.com
@@ -5076,6 +5067,7 @@ tv.apple.com
 .cardrogue.com
 .care2.com
 .careerdirect-ge.org
+.careerengine.us
 .careers.kerry.kuokgroup.com
 .carfax.com
 .cari.com.my
@@ -5151,6 +5143,7 @@ tv.apple.com
 .cbs.com
 .cbsnews.com
 .cbtc.org.hk
+.cc.com
 .cc.eye.rs
 .cc.hacked.jp
 .cc.srsr.ml
@@ -5301,7 +5294,6 @@ tv.apple.com
 .channel24.co.za
 .channel4.com
 .channel5.com
-.channel8news.sg
 .channelnewsasia.com
 .chanzuckerberg.com
 .chaoex.com
@@ -5985,6 +5977,7 @@ tv.apple.com
 .cryptocert.org
 .cryptocoinsnews.com
 .cryptocurrencytalk.com
+.cryptographyengineering.com
 .cryptomeans.co
 .cryptorarium.com
 .cryptostorm.is
@@ -6315,7 +6308,6 @@ tv.apple.com
 .dansmovies.com
 .danwei.org
 .daolan.net
-.daozhongxing.org
 .dapao888.com
 .dariknews.bg
 .dark.moe
@@ -6458,7 +6450,6 @@ tv.apple.com
 .dearelder.com
 .deathbychina.com
 .debate.org
-.debian.org
 .debug.com
 .deck.ly
 .decodet.co
@@ -6617,7 +6608,6 @@ tv.apple.com
 .discuss.com.hk
 .discuss4u.com
 .dish.com
-.disk.yandex.com
 .disney-plus.net
 .disneyplus.com
 .disp.cc
@@ -7090,6 +7080,7 @@ tv.apple.com
 .ebanohoteles.com
 .ebans.byethost7.com
 .ebaumsworld.com
+.ebc.net.tw
 .ebizstars.com
 .ebony-beauty.com
 .ebookbrowse.com
@@ -7102,7 +7093,6 @@ tv.apple.com
 .ecaipe.com.ar
 .ecar.jlr-apps.com
 .ecchi.iwara.tv
-.ecdm.fandom.com
 .ecfa.org.tw
 .echainhost.com
 .echo-balancer.org
@@ -7268,7 +7258,6 @@ tv.apple.com
 .emuparadise.me
 .en.akinator.com
 .en.altervista.org
-.en.hao123.com
 .en.howbbs.com
 .en.ishadowx.net
 .en.mwikipedia.org
@@ -7398,7 +7387,6 @@ tv.apple.com
 .esball.tv
 .esbi8.com
 .esbi8.net
-.esg.t91y.com
 .eslite.com
 .esmatube.com
 .esmtp.biz
@@ -7675,6 +7663,7 @@ tv.apple.com
 .fanarchive.campfirenow.com
 .fanatical.com
 .fancy7.com
+.fandom.com
 .fanfictio.net
 .fangbinxing.com
 .fangeming.com
@@ -7975,7 +7964,6 @@ tv.apple.com
 .fmradiobuffer.com
 .fnac.be
 .fnac.com
-.fnc.ebc.net.tw
 .fnf.xyz
 .fnn.jp
 .fochk.org
@@ -7995,7 +7983,6 @@ tv.apple.com
 .foolsmountain.com
 .fooooo.com
 .footensalle.be
-.footwiball.com
 .for-some.biz
 .fora.pl
 .fordays.com.au
@@ -8736,6 +8723,8 @@ tv.apple.com
 .gfw.press
 .gfw.report
 .gfw.wtf
+.gfwlist.end
+.gfwlist.start
 .gfx.ms
 .gfx47.com
 .gfycatporn.com
@@ -8860,7 +8849,6 @@ tv.apple.com
 .gmail.gunnery.org
 .gmail.roche.com
 .gmail.ucar.edu
-.gmbd.cn
 .gmer.net
 .gmgard.com
 .gmhz.org
@@ -8872,6 +8860,7 @@ tv.apple.com
 .gmll.org
 .gmocloud.com
 .gmodules.com
+.gmx.net
 .gmyb.rongzhouxing.com
 .gmyb.xinghun580.com
 .gnbccarson.com
@@ -9565,6 +9554,8 @@ tv.apple.com
 .hanwitprecision.com
 .hanyelove.weebly.com
 .hao.news
+.hao123.com
+.hao123img.com
 .hao8tv.com
 .haodiao.org
 .haoli747.com
@@ -9635,6 +9626,7 @@ tv.apple.com
 .hdtvb.net
 .hdwallpapers.in
 .hdzog.com
+.he.net
 .he2911.com
 .headlinefinance.hk
 .headlinestoday.intoday.in
@@ -9909,7 +9901,6 @@ tv.apple.com
 .hk.c.cloudss.pw
 .hk.futu5.com
 .hk.hacked.jp
-.hk.hao123img.com
 .hk.mssi.pw
 .hk01.com
 .hk1.pro.rixcloud.net
@@ -10052,7 +10043,6 @@ tv.apple.com
 .honeynet.org
 .hong.com
 .hongkong-s02-i02.cg-dialup.net
-.hongkong.fandom.com
 .hongkong.nhtglobal.com
 .hongkongfp.com
 .hongkongfp.org
@@ -10216,7 +10206,6 @@ tv.apple.com
 .humanesociety.org
 .humanevents.com
 .humanharvestmovie.com
-.humanrightsbriefing.org
 .humanrightsfoundation.org
 .humanrightshouse.org
 .humansofnewyork.com
@@ -10351,13 +10340,11 @@ tv.apple.com
 .icsin.org
 .ictsupport.com.pe
 .icu-project.org
-.id.hao123.com
 .id.rlcdn.com
 .id.t28.net
 .idaili.club
 .idaiwan.com
 .idaydre.am
-.iddddg.com
 .ideal7.com
 .ideapocket.com
 .idemocracy.asia
@@ -10708,6 +10695,7 @@ tv.apple.com
 .ipv4.yunfei.cf
 .ipvanish.com
 .ipvm.com
+.iqiyi.com
 .iqlink1.us
 .iqlinkus.com
 .iqlinkus.net
@@ -11207,6 +11195,7 @@ tv.apple.com
 .joinbbs.net
 .joinclubhouse.com
 .joinmastodon.org
+.joins.com
 .jojofx.com
 .jojos.tw
 .jokerlu.com
@@ -11233,7 +11222,6 @@ tv.apple.com
 .joymiihub.com
 .joys999.com
 .jp-sex.com
-.jp.hao123.com
 .jp.moc.gov.tw
 .jp.net
 .jp01-28.ssv4.net
@@ -11266,7 +11254,6 @@ tv.apple.com
 .jshint.com
 .jsok369.com
 .jsproxy.tk
-.jtbc.joins.com
 .jtfx.mobi
 .jtvnw.net
 .jtzgcd.neocities.org
@@ -11719,7 +11706,6 @@ tv.apple.com
 .la-forum.org
 .la4065.com
 .lab.gracecode.com
-.lab.skk.moe
 .labetulla.ch
 .labiblia.com
 .labiennale.org
@@ -11811,7 +11797,6 @@ tv.apple.com
 .lc08s3713.friendbitter.com
 .lcw580.com
 .lcx.cc
-.ld.hao123img.com
 .ld091.com
 .ld6.bet
 .ld88.tv
@@ -11992,6 +11977,7 @@ tv.apple.com
 .letou996.com
 .letou999.net
 .letscorp.net
+.letsencrypt.org
 .letv311.net
 .letwatch.us
 .leungdikhin.net76.net
@@ -12493,7 +12479,6 @@ tv.apple.com
 .m989m989.com
 .m9909.com
 .m9955.com
-.ma.hao123.com
 .ma8009.com
 .maasstadbv.com
 .mab.mnd.gov.tw
@@ -13208,7 +13193,6 @@ tv.apple.com
 .mp3truck.org
 .mp3vip.eu
 .mp3wifie.com
-.mp3ye.eu
 .mpettis.com
 .mpfinance.com
 .mpfive.com
@@ -13330,7 +13314,6 @@ tv.apple.com
 .mvpn.pro
 .mvpxxtv.com
 .mwds.co.za
-.mx.hao123.com
 .mx981.com
 .mxhandroid.com
 .mxihan.xyz
@@ -13526,7 +13509,6 @@ tv.apple.com
 .namulo.net
 .namulo.org
 .nanang.web.id
-.nanfanggongyuan.fandom.com
 .nanopellets.com
 .nanrenfuli.com
 .nantou.taiwan-pharma.org.tw
@@ -13697,7 +13679,6 @@ tv.apple.com
 .news.atebits.com
 .news.com.au
 .news.dmhk.net
-.news.ebc.net.tw
 .news.gamme.com.tw
 .news.godsdirectcontact.net
 .news.google.com.are.uab.cat
@@ -13820,6 +13801,7 @@ tv.apple.com
 .nih.gov
 .nihaocloud.com
 .nii.ac.jp
+.nike.com
 .nikkan-spa.jp
 .nikkei.com
 .nikomo.fi
@@ -13849,7 +13831,6 @@ tv.apple.com
 .nitter.fdn.fr
 .nitter.mastodont.cat
 .nitter.net
-.nitter.pussthecat.org
 .nitter.snopyta.org
 .nitter.tedomum.net
 .niu.moe
@@ -14125,7 +14106,6 @@ tv.apple.com
 .ocreampies.com
 .ocregister.com
 .ocry.com
-.ocsp.int-x3.letsencrypt.org
 .october-review.org
 .octoteam.com
 .octrev.mysrvnet.com
@@ -14341,7 +14321,6 @@ tv.apple.com
 .order.shadowsocks.ch
 .order.shadowsocks.se
 .order.webunion.com
-.ordns.he.net
 .oreilco.com
 .orextv.com
 .orfonline.org
@@ -14949,7 +14928,6 @@ tv.apple.com
 .pokerstars.net
 .pokerstrategy.com
 .pokorny.tv
-.polandball.fandom.com
 .polissya.eu
 .politicalchina.org
 .politicalconsultation.org
@@ -15078,7 +15056,6 @@ tv.apple.com
 .postimg.org
 .postini.com
 .postnl.nl
-.posts.careerengine.us
 .potato.im
 .potatso.com
 .potvpn.com
@@ -15363,12 +15340,12 @@ tv.apple.com
 .purevpn.com
 .purevpn.org
 .purplelotus.org
-.purpose.nike.com
 .pursuestar.com
 .pusacg.org
 .pushbullet.com
 .pushchinawall.com
 .pushwoosh.com
+.pussthecat.org
 .pussy.com
 .pussyspace.com
 .putacupinit.com
@@ -16032,7 +16009,6 @@ tv.apple.com
 .s99bet.com
 .s99bet.net
 .sa.com
-.sa.hao123.com
 .saalt.org
 .saboom.com
 .sacbee.com
@@ -16225,7 +16201,6 @@ tv.apple.com
 .sea.tdna.me
 .seamless.icu
 .sean.idv.tw
-.seapuff.com
 .search-mp3.com
 .search.avira.com
 .search.com
@@ -16655,6 +16630,7 @@ tv.apple.com
 .skillfeed.com
 .skimtube.com
 .skirt.com
+.skk.moe
 .skn.noip.me
 .skop.cl
 .skyav.me
@@ -16856,8 +16832,6 @@ tv.apple.com
 .southfront.org
 .southmongolia.org
 .southnews.com.tw
-.southpark.cc.com
-.southpark.fandom.com
 .southxchange.com
 .souvenirkediri.com
 .sowers.org.hk
@@ -17038,7 +17012,6 @@ tv.apple.com
 .stagadish.com
 .stage.18luck.tech
 .stage64.hk
-.staging.cryptographyengineering.com
 .staging.spacious.hk
 .standard-molecules.webnode.tw
 .standardglove.com
@@ -17200,7 +17173,6 @@ tv.apple.com
 .submityourtapes.com
 .substack.com
 .successfn.com
-.suche.gmx.net
 .sudoproxy.net
 .sudouest.fr
 .sueddeutsche.de
@@ -17405,6 +17377,7 @@ tv.apple.com
 .t68.ph
 .t69y.com
 .t88bb.com
+.t91y.com
 .t951.com
 .t981.com
 .taa-usa.org
@@ -17673,7 +17646,6 @@ tv.apple.com
 .tgpasia.com
 .tgraph.io
 .tgs.tca.org.tw
-.th.hao123.com
 .th.thaimazda2.com
 .thaichix.com
 .thaicn.com
@@ -18383,17 +18355,8 @@ tv.apple.com
 .tunnello.com
 .tunnelr.com
 .tunsafe.com
-.tuo8.blue
 .tuo8.cc
-.tuo8.club
-.tuo8.fit
-.tuo8.hk
-.tuo8.in
-.tuo8.ninja
 .tuo8.org
-.tuo8.pw
-.tuo8.red
-.tuo8.space
 .tuoitrevn.es
 .tuoyitv.com
 .turansam.org
@@ -18474,9 +18437,7 @@ tv.apple.com
 .tw-npo.org
 .tw.94funtv.com
 .tw.daigobang.com
-.tw.hao123.com
 .tw.hotels.com
-.tw.iqiyi.com
 .tw.jzbet666.net
 .tw.mssi.pw
 .tw.myrenta.com
@@ -18956,7 +18917,6 @@ tv.apple.com
 .ustinka.org
 .ustream.tv
 .ustv123.com
-.usunitednews.com
 .usus.cc
 .usvpn.co
 .ut888.com.tw
@@ -18989,7 +18949,6 @@ tv.apple.com
 .uyghuraustralia.proboards.com
 .uyghurbiz.org
 .uyghurcanadian.ca
-.uyghurcanadiansociety.org
 .uyghurche.com
 .uyghurcongress.org
 .uyghurensemble.co.uk
@@ -19247,7 +19206,6 @@ tv.apple.com
 .vmpsoft.com
 .vmwareitacademy.org
 .vn-lm.jbo25.com
-.vn.hao123.com
 .vn0765.com
 .vn4.net
 .vn52888.com
@@ -21302,6 +21260,7 @@ tv.apple.com
 .www.chakwal.com
 .www.changkaidemen.org
 .www.changsenxue.idv.tw
+.www.channel8news.sg
 .www.channelnewsasia.com.sg
 .www.chaomedia.net
 .www.chaosinternational.com
@@ -23966,6 +23925,7 @@ tv.apple.com
 .www.tubekitty.com
 .www.tubemales.com
 .www.tubeprox.com
+.www.tuo8.red
 .www.tupian12345.com
 .www.turfclub.com.sg
 .www.turnitinuk.com
@@ -24997,6 +24957,7 @@ tv.apple.com
 .yam.org.tw
 .yamigama.com
 .yande.re
+.yandex.com
 .yandex.ru
 .yanghengjun.com
 .yangjianli.com
