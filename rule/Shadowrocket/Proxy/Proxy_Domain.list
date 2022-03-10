@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-10 02:13:04
-# DOMAIN-SUFFIX: 25401
+# UPDATED: 2022-03-11 02:13:42
+# DOMAIN-SUFFIX: 25412
 # USER-AGENT: 7
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 32
 # IP-CIDR: 92
-# TOTAL: 25540
+# TOTAL: 25551
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -2686,6 +2686,7 @@ voice.telephony.goog
 .adventist.org
 .advertfan.com
 .advertisercommunity.com
+.ae.hao123.com
 .ae.org
 .aebn.net
 .aenhancers.com
@@ -4520,6 +4521,7 @@ voice.telephony.goog
 .boyxv.com
 .bp8nyohd6k.com
 .bpd.com.do
+.br.hao123.com
 .br.st
 .bradar.cl
 .braghini.com.ar
@@ -7197,6 +7199,7 @@ voice.telephony.goog
 .emuparadise.me
 .en.akinator.com
 .en.altervista.org
+.en.hao123.com
 .en.howbbs.com
 .en.ishadowx.net
 .en.mwikipedia.org
@@ -9478,8 +9481,6 @@ voice.telephony.goog
 .hanwitprecision.com
 .hanyelove.weebly.com
 .hao.news
-.hao123.com
-.hao123img.com
 .hao8tv.com
 .haodiao.org
 .haoli747.com
@@ -9820,6 +9821,7 @@ voice.telephony.goog
 .hk.c.cloudss.pw
 .hk.futu5.com
 .hk.hacked.jp
+.hk.hao123img.com
 .hk.mssi.pw
 .hk01.com
 .hk1.pro.rixcloud.net
@@ -10256,6 +10258,7 @@ voice.telephony.goog
 .icsin.org
 .ictsupport.com.pe
 .icu-project.org
+.id.hao123.com
 .id.rlcdn.com
 .id.t28.net
 .idaili.club
@@ -10608,7 +10611,6 @@ voice.telephony.goog
 .ipv4.yunfei.cf
 .ipvanish.com
 .ipvm.com
-.iqiyi.com
 .iqlink1.us
 .iqlinkus.com
 .iqlinkus.net
@@ -11133,6 +11135,7 @@ voice.telephony.goog
 .joymiihub.com
 .joys999.com
 .jp-sex.com
+.jp.hao123.com
 .jp.moc.gov.tw
 .jp.net
 .jp01-28.ssv4.net
@@ -11701,6 +11704,7 @@ voice.telephony.goog
 .lc08s3713.friendbitter.com
 .lcw580.com
 .lcx.cc
+.ld.hao123img.com
 .ld091.com
 .ld6.bet
 .ld88.tv
@@ -12379,6 +12383,7 @@ voice.telephony.goog
 .m989m989.com
 .m9909.com
 .m9955.com
+.ma.hao123.com
 .ma8009.com
 .maasstadbv.com
 .mab.mnd.gov.tw
@@ -13213,6 +13218,7 @@ voice.telephony.goog
 .mvpn.pro
 .mvpxxtv.com
 .mwds.co.za
+.mx.hao123.com
 .mx981.com
 .mxhandroid.com
 .mxihan.xyz
@@ -15883,6 +15889,7 @@ voice.telephony.goog
 .s99bet.com
 .s99bet.net
 .sa.com
+.sa.hao123.com
 .saalt.org
 .saboom.com
 .sacbee.com
@@ -17511,6 +17518,7 @@ voice.telephony.goog
 .tgpasia.com
 .tgraph.io
 .tgs.tca.org.tw
+.th.hao123.com
 .th.thaimazda2.com
 .thaichix.com
 .thaicn.com
@@ -18299,7 +18307,9 @@ voice.telephony.goog
 .tw-npo.org
 .tw.94funtv.com
 .tw.daigobang.com
+.tw.hao123.com
 .tw.hotels.com
+.tw.iqiyi.com
 .tw.jzbet666.net
 .tw.mssi.pw
 .tw.myrenta.com
@@ -19063,6 +19073,7 @@ voice.telephony.goog
 .vmpsoft.com
 .vmwareitacademy.org
 .vn-lm.jbo25.com
+.vn.hao123.com
 .vn0765.com
 .vn4.net
 .vn52888.com

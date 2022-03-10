@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-10 02:12:57
+# UPDATED: 2022-03-11 02:13:33
 # DOMAIN: 13
-# DOMAIN-SUFFIX: 12408
+# DOMAIN-SUFFIX: 12410
 # IP-CIDR: 6
-# TOTAL: 12427
+# TOTAL: 12429
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -1803,6 +1803,7 @@ zgsdk.zhugeio.com
 .briskpelican.io
 .brizxe.dior.com
 .broadboundary.com
+.brontops.com
 .brothersbucket.com
 .browser-updater.yandex.net
 .browser.events.data.microsoft.com
@@ -1920,6 +1921,7 @@ zgsdk.zhugeio.com
 .capablecup.com
 .capture-api.ap3prod.com
 .capture.condenastdigital.com
+.capturehighered.net
 .carburanalyticsspace.carte-gr.total.fr
 .carburantsanalyticsa.carte-gr.total.fr
 .carburez-a-l-emotion.carte-gr.total.fr
@@ -3215,7 +3217,6 @@ zgsdk.zhugeio.com
 .email.mail.primexbt.com
 .email.mccoys.com
 .email.member.theknot.com
-.email.mg.everyonesocial.com
 .email.mymandg.co.uk
 .email.participaction.com
 .email.pray.com
@@ -4645,6 +4646,7 @@ zgsdk.zhugeio.com
 .k.voyageursdumonde.fr
 .k4fu.verif.com
 .k54nw.pw
+.k5a.io
 .ka.ilius.net
 .kabokc.webuy.com
 .kaden.netoff.co.jp

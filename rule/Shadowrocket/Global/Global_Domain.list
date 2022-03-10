@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-10 02:13:04
-# DOMAIN-SUFFIX: 25516
+# UPDATED: 2022-03-11 02:13:43
+# DOMAIN-SUFFIX: 25527
 # USER-AGENT: 44
 # DOMAIN: 32
 # DOMAIN-KEYWORD: 45
 # IP-CIDR: 110
-# TOTAL: 25747
+# TOTAL: 25758
 amp-api.podcasts.apple.com
 api.waqi.info
 apple.comscoreresearch.com
@@ -2716,6 +2716,7 @@ tv.apple.com
 .adventist.org
 .advertfan.com
 .advertisercommunity.com
+.ae.hao123.com
 .ae.org
 .aebn.net
 .aenhancers.com
@@ -4565,6 +4566,7 @@ tv.apple.com
 .boyxv.com
 .bp8nyohd6k.com
 .bpd.com.do
+.br.hao123.com
 .br.st
 .bradar.cl
 .braghini.com.ar
@@ -7258,6 +7260,7 @@ tv.apple.com
 .emuparadise.me
 .en.akinator.com
 .en.altervista.org
+.en.hao123.com
 .en.howbbs.com
 .en.ishadowx.net
 .en.mwikipedia.org
@@ -9554,8 +9557,6 @@ tv.apple.com
 .hanwitprecision.com
 .hanyelove.weebly.com
 .hao.news
-.hao123.com
-.hao123img.com
 .hao8tv.com
 .haodiao.org
 .haoli747.com
@@ -9901,6 +9902,7 @@ tv.apple.com
 .hk.c.cloudss.pw
 .hk.futu5.com
 .hk.hacked.jp
+.hk.hao123img.com
 .hk.mssi.pw
 .hk01.com
 .hk1.pro.rixcloud.net
@@ -10340,6 +10342,7 @@ tv.apple.com
 .icsin.org
 .ictsupport.com.pe
 .icu-project.org
+.id.hao123.com
 .id.rlcdn.com
 .id.t28.net
 .idaili.club
@@ -10695,7 +10698,6 @@ tv.apple.com
 .ipv4.yunfei.cf
 .ipvanish.com
 .ipvm.com
-.iqiyi.com
 .iqlink1.us
 .iqlinkus.com
 .iqlinkus.net
@@ -11222,6 +11224,7 @@ tv.apple.com
 .joymiihub.com
 .joys999.com
 .jp-sex.com
+.jp.hao123.com
 .jp.moc.gov.tw
 .jp.net
 .jp01-28.ssv4.net
@@ -11797,6 +11800,7 @@ tv.apple.com
 .lc08s3713.friendbitter.com
 .lcw580.com
 .lcx.cc
+.ld.hao123img.com
 .ld091.com
 .ld6.bet
 .ld88.tv
@@ -12479,6 +12483,7 @@ tv.apple.com
 .m989m989.com
 .m9909.com
 .m9955.com
+.ma.hao123.com
 .ma8009.com
 .maasstadbv.com
 .mab.mnd.gov.tw
@@ -13314,6 +13319,7 @@ tv.apple.com
 .mvpn.pro
 .mvpxxtv.com
 .mwds.co.za
+.mx.hao123.com
 .mx981.com
 .mxhandroid.com
 .mxihan.xyz
@@ -16009,6 +16015,7 @@ tv.apple.com
 .s99bet.com
 .s99bet.net
 .sa.com
+.sa.hao123.com
 .saalt.org
 .saboom.com
 .sacbee.com
@@ -17646,6 +17653,7 @@ tv.apple.com
 .tgpasia.com
 .tgraph.io
 .tgs.tca.org.tw
+.th.hao123.com
 .th.thaimazda2.com
 .thaichix.com
 .thaicn.com
@@ -18437,7 +18445,9 @@ tv.apple.com
 .tw-npo.org
 .tw.94funtv.com
 .tw.daigobang.com
+.tw.hao123.com
 .tw.hotels.com
+.tw.iqiyi.com
 .tw.jzbet666.net
 .tw.mssi.pw
 .tw.myrenta.com
@@ -19206,6 +19216,7 @@ tv.apple.com
 .vmpsoft.com
 .vmwareitacademy.org
 .vn-lm.jbo25.com
+.vn.hao123.com
 .vn0765.com
 .vn4.net
 .vn52888.com

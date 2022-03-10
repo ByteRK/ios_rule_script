@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-10 02:12:58
+# UPDATED: 2022-03-11 02:13:35
 # HOST: 13
-# HOST-SUFFIX: 12408
+# HOST-SUFFIX: 12410
 # IP-CIDR: 6
-# TOTAL: 12427
+# TOTAL: 12429
 HOST,hm.baidu.com,Privacy
 HOST,hmma.baidu.com,Privacy
 HOST,js.users.51.la,Privacy
@@ -1803,6 +1803,7 @@ HOST-SUFFIX,briskeagle.io,Privacy
 HOST-SUFFIX,briskpelican.io,Privacy
 HOST-SUFFIX,brizxe.dior.com,Privacy
 HOST-SUFFIX,broadboundary.com,Privacy
+HOST-SUFFIX,brontops.com,Privacy
 HOST-SUFFIX,brothersbucket.com,Privacy
 HOST-SUFFIX,browser-updater.yandex.net,Privacy
 HOST-SUFFIX,browser.events.data.microsoft.com,Privacy
@@ -1920,6 +1921,7 @@ HOST-SUFFIX,capablecows.com,Privacy
 HOST-SUFFIX,capablecup.com,Privacy
 HOST-SUFFIX,capture-api.ap3prod.com,Privacy
 HOST-SUFFIX,capture.condenastdigital.com,Privacy
+HOST-SUFFIX,capturehighered.net,Privacy
 HOST-SUFFIX,carburanalyticsspace.carte-gr.total.fr,Privacy
 HOST-SUFFIX,carburantsanalyticsa.carte-gr.total.fr,Privacy
 HOST-SUFFIX,carburez-a-l-emotion.carte-gr.total.fr,Privacy
@@ -3215,7 +3217,6 @@ HOST-SUFFIX,email.mail.floatme.io,Privacy
 HOST-SUFFIX,email.mail.primexbt.com,Privacy
 HOST-SUFFIX,email.mccoys.com,Privacy
 HOST-SUFFIX,email.member.theknot.com,Privacy
-HOST-SUFFIX,email.mg.everyonesocial.com,Privacy
 HOST-SUFFIX,email.mymandg.co.uk,Privacy
 HOST-SUFFIX,email.participaction.com,Privacy
 HOST-SUFFIX,email.pray.com,Privacy
@@ -4645,6 +4646,7 @@ HOST-SUFFIX,k.truffaut.com,Privacy
 HOST-SUFFIX,k.voyageursdumonde.fr,Privacy
 HOST-SUFFIX,k4fu.verif.com,Privacy
 HOST-SUFFIX,k54nw.pw,Privacy
+HOST-SUFFIX,k5a.io,Privacy
 HOST-SUFFIX,ka.ilius.net,Privacy
 HOST-SUFFIX,kabokc.webuy.com,Privacy
 HOST-SUFFIX,kaden.netoff.co.jp,Privacy

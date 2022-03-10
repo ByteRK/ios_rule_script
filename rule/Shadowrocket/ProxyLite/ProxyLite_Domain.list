@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-10 02:13:04
-# DOMAIN-SUFFIX: 31922
+# UPDATED: 2022-03-11 02:13:43
+# DOMAIN-SUFFIX: 31933
 # USER-AGENT: 5
 # DOMAIN: 37
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 89
-# TOTAL: 32079
+# TOTAL: 32090
 angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
@@ -2853,6 +2853,7 @@ www-cdn.icloud.com.akadns.net
 .adventuresbydisney.com
 .advertfan.com
 .adx.promo
+.ae.hao123.com
 .ae.org
 .aeasyshop.com
 .aebn.net
@@ -5812,6 +5813,7 @@ www-cdn.icloud.com.akadns.net
 .boyxv.com
 .bp8nyohd6k.com
 .bpd.com.do
+.br.hao123.com
 .br.st
 .bradar.cl
 .braeburncapital.com
@@ -9571,6 +9573,7 @@ www-cdn.icloud.com.akadns.net
 .emuparadise.me
 .en.akinator.com
 .en.altervista.org
+.en.hao123.com
 .en.howbbs.com
 .en.ishadowx.net
 .en.mwikipedia.org
@@ -12435,8 +12438,6 @@ www-cdn.icloud.com.akadns.net
 .hanyelove.weebly.com
 .hanzhen.xmulib.org
 .hao.news
-.hao123.com
-.hao123img.com
 .hao8tv.com
 .haodiao.org
 .haoli747.com
@@ -12849,6 +12850,7 @@ www-cdn.icloud.com.akadns.net
 .hk.c.cloudss.pw
 .hk.futu5.com
 .hk.hacked.jp
+.hk.hao123img.com
 .hk.mssi.pw
 .hk01.com
 .hk1.pro.rixcloud.net
@@ -13502,6 +13504,7 @@ www-cdn.icloud.com.akadns.net
 .icsin.org
 .ictsupport.com.pe
 .icu-project.org
+.id.hao123.com
 .id.rlcdn.com
 .id.t28.net
 .idaili.club
@@ -14161,7 +14164,6 @@ www-cdn.icloud.com.akadns.net
 .ipv4.yunfei.cf
 .ipvanish.com
 .ipvm.com
-.iqiyi.com
 .iqlink1.us
 .iqlinkus.com
 .iqlinkus.net
@@ -14774,6 +14776,7 @@ www-cdn.icloud.com.akadns.net
 .joymiihub.com
 .joys999.com
 .jp-sex.com
+.jp.hao123.com
 .jp.moc.gov.tw
 .jp.net
 .jp01-28.ssv4.net
@@ -15417,6 +15420,7 @@ www-cdn.icloud.com.akadns.net
 .lcsmerch.com
 .lcw580.com
 .lcx.cc
+.ld.hao123img.com
 .ld091.com
 .ld6.bet
 .ld88.tv
@@ -16200,6 +16204,7 @@ www-cdn.icloud.com.akadns.net
 .m989m989.com
 .m9909.com
 .m9955.com
+.ma.hao123.com
 .ma8009.com
 .maasstadbv.com
 .mab.mnd.gov.tw
@@ -17485,6 +17490,7 @@ www-cdn.icloud.com.akadns.net
 .mvpn.pro
 .mvpxxtv.com
 .mwds.co.za
+.mx.hao123.com
 .mx981.com
 .mxhandroid.com
 .mxihan.xyz
@@ -21213,6 +21219,7 @@ www-cdn.icloud.com.akadns.net
 .s99bet.com
 .s99bet.net
 .sa.com
+.sa.hao123.com
 .saalt.org
 .saboom.com
 .sacbee.com
@@ -23297,6 +23304,7 @@ www-cdn.icloud.com.akadns.net
 .tgpasia.com
 .tgraph.io
 .tgs.tca.org.tw
+.th.hao123.com
 .th.thaimazda2.com
 .thaichix.com
 .thaicn.com
@@ -24215,7 +24223,9 @@ www-cdn.icloud.com.akadns.net
 .tw-npo.org
 .tw.94funtv.com
 .tw.daigobang.com
+.tw.hao123.com
 .tw.hotels.com
+.tw.iqiyi.com
 .tw.jzbet666.net
 .tw.mssi.pw
 .tw.myrenta.com
@@ -25267,6 +25277,7 @@ www-cdn.icloud.com.akadns.net
 .vmwsalesrewards.com
 .vmwservices.com
 .vn-lm.jbo25.com
+.vn.hao123.com
 .vn0765.com
 .vn4.net
 .vn52888.com

@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-10 02:12:59
+# UPDATED: 2022-03-11 02:13:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45289
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 88507
+# DOMAIN-SUFFIX: 88550
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 134440
+# TOTAL: 134483
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -45842,6 +45842,7 @@ zzzrtrcm2.com
 .148dfe140d0f3d5e.com
 .1494.top
 .1495039.com
+.14a3d6c4df.com
 .14nuzznszbdp.com
 .14vq.cn
 .1503.net
@@ -46047,6 +46048,7 @@ zzzrtrcm2.com
 .1nimo.com
 .1o26.com
 .1p1eqpotato.com
+.1p3opxwwet.ru
 .1pel.com
 .1phads.com
 .1pop.ru
@@ -48173,6 +48175,7 @@ zzzrtrcm2.com
 .95wvb.xyz
 .961.com
 .96138.net
+.96370cb8a9.com
 .9639927.com
 .963fc.com
 .964ka.cn
@@ -50898,6 +50901,7 @@ zzzrtrcm2.com
 .addtop.trangvangvietnam.com
 .addvantagetechnology.com
 .addweb.ru
+.addwish.com
 .addynamix.com
 .addynamo.com
 .addynamo.net
@@ -61677,6 +61681,7 @@ zzzrtrcm2.com
 .broklam.com
 .brominer.com
 .bronto.com
+.brontops.com
 .bronya.club
 .broomboxmain.com
 .brothcorewearisome.com
@@ -62729,6 +62734,7 @@ zzzrtrcm2.com
 .campaign.ssab.com
 .campaigncog.com
 .campaigninfo.motorolasolutions.com
+.campaignmonitor.com
 .campaignresources.motorolasolutions.com
 .campaigns.amadeus.com
 .campaigns.apps-connects.com
@@ -62841,6 +62847,7 @@ zzzrtrcm2.com
 .capture-api.autopilotapp.com
 .capture.condenastdigital.com
 .capture.crutchfield.com
+.capturehighered.net
 .capturemedia.network
 .capturly.com
 .capultytrese.xyz
@@ -63318,6 +63325,7 @@ zzzrtrcm2.com
 .cdn.app.kachapt.cn
 .cdn.app.liuxingyul.cn
 .cdn.appdynamics.com
+.cdn.applixir.com
 .cdn.apprope.com
 .cdn.arcstudiopro.com
 .cdn.asecv.xyz
@@ -63335,7 +63343,6 @@ zzzrtrcm2.com
 .cdn.callibri.ru
 .cdn.carrotquest.app
 .cdn.civicscience.com
-.cdn.clerk.io
 .cdn.clinch.co
 .cdn.comedia.coccoc.com
 .cdn.constafun.com
@@ -63997,6 +64004,7 @@ zzzrtrcm2.com
 .chengzhonghuxin.com
 .chengzilte.top
 .chenjie.site
+.chenliang.link
 .chenmujiang.com.cn
 .chenqi.vip
 .chenqinghui.xyz
@@ -64533,6 +64541,7 @@ zzzrtrcm2.com
 .clemencydifferenceslavishness.com
 .clenchedyouthmatching.com
 .cleriendsev.club
+.clerk.io
 .clerrrep.com
 .cleverads.vn
 .clevergirlscollective.com
@@ -65766,7 +65775,6 @@ zzzrtrcm2.com
 .commdata6.v.qq.com
 .commencerons.xyz
 .commentaryharm.com
-.commerce.campaignmonitor.com
 .commerce.www.ibm.com
 .commercedirections.com
 .commercial.davey.com
@@ -68054,6 +68062,7 @@ zzzrtrcm2.com
 .d1rsh847opos9y.cloudfront.net
 .d1rszqblq924lq.cloudfront.net
 .d1skp.cn
+.d1snv67wdds0p2.cloudfront.net
 .d1stxfv94hrhia.cloudfront
 .d1t4ekjh9ps4ob.cloudfront.net
 .d1t9uctetvi0tu.cloudfront.net
@@ -69189,6 +69198,7 @@ zzzrtrcm2.com
 .ddapp.cn
 .ddb0c3b17298fd1.com
 .ddc.statefarm.com
+.ddc08eb47c.com
 .ddcfzd.com
 .ddd.1sapp.com
 .ddd.haodizhi666.com
@@ -69604,6 +69614,7 @@ zzzrtrcm2.com
 .deskminkgnu.com
 .deskmony.info
 .deskt.cn
+.desktopnotificationshub.com
 .desky.xyz
 .deslncsiq.com
 .desolatethings.com
@@ -69778,6 +69789,7 @@ zzzrtrcm2.com
 .dfmnbv.pro
 .dfmngtubtdfxnq.com
 .dfnetwork.link
+.dfokydq.cn
 .dfp.bouncex.net
 .dfseafood.com
 .dftoutiao.com
@@ -71129,6 +71141,7 @@ zzzrtrcm2.com
 .dpsq2uzakdgqz.cloudfront.net
 .dpstack.com
 .dptkdh.joinhoney.com
+.dptlxjkvblw.com
 .dptr.areyouahuman.com
 .dpu.samsungelectronics.com
 .dpvc.39.net
@@ -71254,6 +71267,7 @@ zzzrtrcm2.com
 .drmfslx.cn
 .drogog.com
 .drogomet.com
+.drogra.com
 .dronml.ml
 .droopingballisticscenario.com
 .droopingmore.com
@@ -76048,6 +76062,7 @@ zzzrtrcm2.com
 .fkmdky.lifehacker.ru
 .fkogs.com
 .fkondate.com
+.fkpnyinj.com
 .fkreylsnefmepi.com
 .fkrkkmxsqeb5bj9r.s3.amazonaws.com
 .fkub.xyz
@@ -76969,6 +76984,7 @@ zzzrtrcm2.com
 .ftd2q1g8id1z.ru
 .ftdownload.com
 .fthcz.com
+.ftheplansa.com
 .fthkmwrkqg.com
 .ftigholm.site
 .ftigken.online
@@ -79855,6 +79871,7 @@ zzzrtrcm2.com
 .guitargrandmother.com
 .guitarpro.cc
 .guiyimq.fun
+.gujace.com
 .guji.store
 .gukmoduk.one
 .guktuti.ru
@@ -79981,6 +79998,7 @@ zzzrtrcm2.com
 .gxkj.ink
 .gxklsftz.cn
 .gxkyl.com
+.gxlsjt.com
 .gxmbr.cn
 .gxms.vip
 .gxordgtvjr.com
@@ -80881,6 +80899,7 @@ zzzrtrcm2.com
 .herefwukou.com
 .heregenessco.club
 .herepackagine.info
+.herespepla.com
 .herezera.com
 .hermes-studio.net
 .hermes.theglobeandmail.com
@@ -81063,6 +81082,7 @@ zzzrtrcm2.com
 .hiadscvd.cezici.cn
 .hiankh.com
 .hiasor.com
+.hiba.club
 .hibernateagitationpre.com
 .hibids10.com
 .hibiki-track.logica.bz
@@ -86011,6 +86031,7 @@ zzzrtrcm2.com
 .jointreport-switch.com
 .joinus.holidayseniorliving.com
 .joizzxo.cn
+.jojdvmcgjdt.com
 .jojilabola.com
 .jojoad.com
 .jojonewwss.pro
@@ -86742,6 +86763,7 @@ zzzrtrcm2.com
 .k4fu.verif.com
 .k50.ru
 .k54nw.pw
+.k5a.io
 .k5ads.osdn.com
 .k5ai3c.cn
 .k5evib.ru
@@ -87264,6 +87286,7 @@ zzzrtrcm2.com
 .kinfly.ru
 .king-contenido-prod.secure2.footprint.net
 .king-oak.cn
+.king3rsc7ol9e3ge.com
 .kingads.mobi
 .kingads.net
 .kingalkylbe.fun
@@ -87952,6 +87975,7 @@ zzzrtrcm2.com
 .kwqptcvwaalgur.com
 .kwsjy9.oui.sncf
 .kwtrdd.com
+.kwtyuv.com
 .kwunqjqntrnf.bid
 .kwvbhj.jcpenney.com
 .kwvfdo.idefix.com
@@ -87978,6 +88002,7 @@ zzzrtrcm2.com
 .kyefakwa.com
 .kyfunahi.pro
 .kyjoyk.modoza.com
+.kykcusq.cn
 .kykmuyi.cn
 .kyle.pub
 .kylxsbsljvya.xyz
@@ -88681,6 +88706,7 @@ zzzrtrcm2.com
 .legislationsoil.com
 .legistrike.pro
 .legistsstillo.club
+.legitimate.wang
 .legjava.com
 .legjava.pro
 .legolas-media.com
@@ -89728,6 +89754,7 @@ zzzrtrcm2.com
 .lmavci.eloquii.com
 .lmbsy.qq.com
 .lmdknj.xxbiquge.net
+.lmefarketi.com
 .lmepskqkrrya.com
 .lmgvur.scbt.com
 .lmht-membership.com
@@ -97708,6 +97735,7 @@ zzzrtrcm2.com
 .neudesicmediagroup.com
 .neuesdate.com
 .neumanns-installation.de
+.neupwvhayjm.com
 .neurishot.info
 .neuronales.xyz
 .neuroticthinner.com
@@ -99198,6 +99226,7 @@ zzzrtrcm2.com
 .o3lqkuk5vq.ru
 .o3sndvzo25.com
 .o4h0np7.cn
+.o4svlxhjun.xyz
 .o4uxrk33.com
 .o6.caiqinly.cn
 .o626b32etkg6.com
@@ -100108,6 +100137,7 @@ zzzrtrcm2.com
 .omvzcq.vidaxl.be
 .omynews.net
 .omyourfir.club
+.omzpbbz.cn
 .omztf.cn
 .on-line.lv
 .on-push.com
@@ -100707,6 +100737,7 @@ zzzrtrcm2.com
 .os.shutterfly.com
 .os.tc
 .os340.com
+.osaceikmxsm.com
 .osaws.com
 .oschgds.pro
 .osd-onead.cdn.hinet.net
@@ -106829,6 +106860,7 @@ zzzrtrcm2.com
 .rbtjkx.cn
 .rbtwo.bid
 .rbxtrk.com
+.rbyewcokbqlc.com
 .rbywg.com
 .rc.asci.freenet.de
 .rc.bt.ilsemedia.nl
@@ -108211,6 +108243,7 @@ zzzrtrcm2.com
 .riverhit.com
 .riverlead.ru
 .riverpush.com
+.rivetrearrange.com
 .rivrai.com
 .rivulussati.com
 .riwhedipsa.pro
@@ -111653,6 +111686,7 @@ zzzrtrcm2.com
 .shengshipump.cn
 .shengtaiyuan.mobi
 .shengushi.cn
+.shengxinrong.net
 .shengyaxd.com
 .shenhao258.top
 .shenhl.top
@@ -111746,6 +111780,7 @@ zzzrtrcm2.com
 .shixiong.xyz
 .shiyaokejishanghai.com
 .shizen-no-megumi.com
+.shjk.xyz
 .shjrwh.cn
 .shjsxx.com
 .shkunjia.com.cn
@@ -118234,6 +118269,7 @@ zzzrtrcm2.com
 .swaa.top
 .swacal.com
 .swagtraffcom.com
+.swailsmenison.com
 .swallow.axiom.co
 .swallow.pelias.io
 .swan-swan-goose.com
@@ -119791,6 +119827,7 @@ zzzrtrcm2.com
 .tempo.inc.com
 .tempobanners.com
 .temporarilybrancheshideous.com
+.temporarilysearchingcomputer.com
 .temporarympay.com
 .temposnitehah.work
 .temptation.ad.nl
@@ -121001,6 +121038,7 @@ zzzrtrcm2.com
 .togoutso.com
 .togranbulla.com
 .togroltu.net
+.toherburked.com
 .tohopes.ru
 .tohvww.mathon.fr
 .toissue.cn
@@ -121330,6 +121368,7 @@ zzzrtrcm2.com
 .tothemoon.incest-porno.pro
 .tothisimpo.biz
 .totifiquo.com
+.totlnkbn.com
 .totoc.top
 .totogetica.com
 .totoh.top
@@ -123254,6 +123293,7 @@ zzzrtrcm2.com
 .treammicr.club
 .treasuredata.com
 .treasuresensignron.com
+.treateryowler.com
 .treatlaurelbud.com
 .treatment.grammarly.com
 .treaturesfg.club
@@ -124921,6 +124961,7 @@ zzzrtrcm2.com
 .unwillingcalumny.com
 .unwofulcountys.com
 .unwrittenspot.com
+.unwroteorcinus.com
 .unyhllrctudfja.com
 .unyzea.aboutyou.sk
 .unzpc.com
@@ -130898,6 +130939,7 @@ zzzrtrcm2.com
 .xo704w18yt75.filmustage.com
 .xoalt.com
 .xoassxowovsrk.com
+.xocgniyv.com
 .xocs.ren
 .xoflgafl.com
 .xofys.biz
@@ -132686,6 +132728,7 @@ zzzrtrcm2.com
 .zaloads-480.zdn.vn
 .zam.nextinpact.com
 .zamar.cn
+.zamiasbrouze.com
 .zamiko.ru
 .zamok911.com
 .zampad.com

@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-10 02:13:03
-# DOMAIN-SUFFIX: 31922
+# UPDATED: 2022-03-11 02:13:41
+# DOMAIN-SUFFIX: 31933
 # DOMAIN: 37
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 89
 # IP-CIDR6: 3
-# TOTAL: 32077
+# TOTAL: 32088
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -2854,6 +2854,7 @@ payload:
   - DOMAIN-SUFFIX,adventuresbydisney.com
   - DOMAIN-SUFFIX,advertfan.com
   - DOMAIN-SUFFIX,adx.promo
+  - DOMAIN-SUFFIX,ae.hao123.com
   - DOMAIN-SUFFIX,ae.org
   - DOMAIN-SUFFIX,aeasyshop.com
   - DOMAIN-SUFFIX,aebn.net
@@ -5813,6 +5814,7 @@ payload:
   - DOMAIN-SUFFIX,boyxv.com
   - DOMAIN-SUFFIX,bp8nyohd6k.com
   - DOMAIN-SUFFIX,bpd.com.do
+  - DOMAIN-SUFFIX,br.hao123.com
   - DOMAIN-SUFFIX,br.st
   - DOMAIN-SUFFIX,bradar.cl
   - DOMAIN-SUFFIX,braeburncapital.com
@@ -9572,6 +9574,7 @@ payload:
   - DOMAIN-SUFFIX,emuparadise.me
   - DOMAIN-SUFFIX,en.akinator.com
   - DOMAIN-SUFFIX,en.altervista.org
+  - DOMAIN-SUFFIX,en.hao123.com
   - DOMAIN-SUFFIX,en.howbbs.com
   - DOMAIN-SUFFIX,en.ishadowx.net
   - DOMAIN-SUFFIX,en.mwikipedia.org
@@ -12436,8 +12439,6 @@ payload:
   - DOMAIN-SUFFIX,hanyelove.weebly.com
   - DOMAIN-SUFFIX,hanzhen.xmulib.org
   - DOMAIN-SUFFIX,hao.news
-  - DOMAIN-SUFFIX,hao123.com
-  - DOMAIN-SUFFIX,hao123img.com
   - DOMAIN-SUFFIX,hao8tv.com
   - DOMAIN-SUFFIX,haodiao.org
   - DOMAIN-SUFFIX,haoli747.com
@@ -12850,6 +12851,7 @@ payload:
   - DOMAIN-SUFFIX,hk.c.cloudss.pw
   - DOMAIN-SUFFIX,hk.futu5.com
   - DOMAIN-SUFFIX,hk.hacked.jp
+  - DOMAIN-SUFFIX,hk.hao123img.com
   - DOMAIN-SUFFIX,hk.mssi.pw
   - DOMAIN-SUFFIX,hk01.com
   - DOMAIN-SUFFIX,hk1.pro.rixcloud.net
@@ -13503,6 +13505,7 @@ payload:
   - DOMAIN-SUFFIX,icsin.org
   - DOMAIN-SUFFIX,ictsupport.com.pe
   - DOMAIN-SUFFIX,icu-project.org
+  - DOMAIN-SUFFIX,id.hao123.com
   - DOMAIN-SUFFIX,id.rlcdn.com
   - DOMAIN-SUFFIX,id.t28.net
   - DOMAIN-SUFFIX,idaili.club
@@ -14162,7 +14165,6 @@ payload:
   - DOMAIN-SUFFIX,ipv4.yunfei.cf
   - DOMAIN-SUFFIX,ipvanish.com
   - DOMAIN-SUFFIX,ipvm.com
-  - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,iqlink1.us
   - DOMAIN-SUFFIX,iqlinkus.com
   - DOMAIN-SUFFIX,iqlinkus.net
@@ -14775,6 +14777,7 @@ payload:
   - DOMAIN-SUFFIX,joymiihub.com
   - DOMAIN-SUFFIX,joys999.com
   - DOMAIN-SUFFIX,jp-sex.com
+  - DOMAIN-SUFFIX,jp.hao123.com
   - DOMAIN-SUFFIX,jp.moc.gov.tw
   - DOMAIN-SUFFIX,jp.net
   - DOMAIN-SUFFIX,jp01-28.ssv4.net
@@ -15418,6 +15421,7 @@ payload:
   - DOMAIN-SUFFIX,lcsmerch.com
   - DOMAIN-SUFFIX,lcw580.com
   - DOMAIN-SUFFIX,lcx.cc
+  - DOMAIN-SUFFIX,ld.hao123img.com
   - DOMAIN-SUFFIX,ld091.com
   - DOMAIN-SUFFIX,ld6.bet
   - DOMAIN-SUFFIX,ld88.tv
@@ -16201,6 +16205,7 @@ payload:
   - DOMAIN-SUFFIX,m989m989.com
   - DOMAIN-SUFFIX,m9909.com
   - DOMAIN-SUFFIX,m9955.com
+  - DOMAIN-SUFFIX,ma.hao123.com
   - DOMAIN-SUFFIX,ma8009.com
   - DOMAIN-SUFFIX,maasstadbv.com
   - DOMAIN-SUFFIX,mab.mnd.gov.tw
@@ -17486,6 +17491,7 @@ payload:
   - DOMAIN-SUFFIX,mvpn.pro
   - DOMAIN-SUFFIX,mvpxxtv.com
   - DOMAIN-SUFFIX,mwds.co.za
+  - DOMAIN-SUFFIX,mx.hao123.com
   - DOMAIN-SUFFIX,mx981.com
   - DOMAIN-SUFFIX,mxhandroid.com
   - DOMAIN-SUFFIX,mxihan.xyz
@@ -21214,6 +21220,7 @@ payload:
   - DOMAIN-SUFFIX,s99bet.com
   - DOMAIN-SUFFIX,s99bet.net
   - DOMAIN-SUFFIX,sa.com
+  - DOMAIN-SUFFIX,sa.hao123.com
   - DOMAIN-SUFFIX,saalt.org
   - DOMAIN-SUFFIX,saboom.com
   - DOMAIN-SUFFIX,sacbee.com
@@ -23298,6 +23305,7 @@ payload:
   - DOMAIN-SUFFIX,tgpasia.com
   - DOMAIN-SUFFIX,tgraph.io
   - DOMAIN-SUFFIX,tgs.tca.org.tw
+  - DOMAIN-SUFFIX,th.hao123.com
   - DOMAIN-SUFFIX,th.thaimazda2.com
   - DOMAIN-SUFFIX,thaichix.com
   - DOMAIN-SUFFIX,thaicn.com
@@ -24216,7 +24224,9 @@ payload:
   - DOMAIN-SUFFIX,tw-npo.org
   - DOMAIN-SUFFIX,tw.94funtv.com
   - DOMAIN-SUFFIX,tw.daigobang.com
+  - DOMAIN-SUFFIX,tw.hao123.com
   - DOMAIN-SUFFIX,tw.hotels.com
+  - DOMAIN-SUFFIX,tw.iqiyi.com
   - DOMAIN-SUFFIX,tw.jzbet666.net
   - DOMAIN-SUFFIX,tw.mssi.pw
   - DOMAIN-SUFFIX,tw.myrenta.com
@@ -25268,6 +25278,7 @@ payload:
   - DOMAIN-SUFFIX,vmwsalesrewards.com
   - DOMAIN-SUFFIX,vmwservices.com
   - DOMAIN-SUFFIX,vn-lm.jbo25.com
+  - DOMAIN-SUFFIX,vn.hao123.com
   - DOMAIN-SUFFIX,vn0765.com
   - DOMAIN-SUFFIX,vn4.net
   - DOMAIN-SUFFIX,vn52888.com
